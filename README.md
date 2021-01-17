@@ -43,7 +43,7 @@ This project required students to update an existing e-commerge platform to use 
 
 ## Links
 Github Repository | https://github.com/tbrichet/shop-shop <br>
-Deployed Application | <br>
+Deployed Application | https://young-lowlands-98263.herokuapp.com/ <br>
 
 ## Screenshot
 ![Screenshot](/screenshot.png)
